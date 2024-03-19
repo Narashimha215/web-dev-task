@@ -1,0 +1,66 @@
+#hai
+{
+	background-color: green ;
+	color: white;
+	width: 500px;
+	border: 3px solid blue;
+}
+img
+{
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+
+}
+h6
+{
+	color: purple;
+}
+.top_arrow
+{
+	position: absolute;
+	top: 1%;
+	left: 96.39%;
+	rotate:100%;
+	transform: translate(-5%,10%);
+	width: 60px;
+	height: 60px;
+	clip-path: polygon(75% 0%,-10% 0%,50% 50%,-10% 100%,75% 120%);
+	background-color: green;
+
+
+}
+.bottom_arrow
+{
+	position: absolute;
+	top: 272.1%;
+	left: 1%;
+	transform: translate(-5%,10%);
+	width: 50px;
+	height: 50px;
+	clip-path: polygon(0% 0%,75% 0%,50% 50%,75% 120%,0% 100%);
+	background-color: green;	
+}
+.dev_arrow
+{
+	position: absolute;
+	top: 109%;
+	left: 1%;
+	transform: translate(-5%,10%);
+	width: 50px;
+	height: 50px;
+	clip-path: polygon(0% 0%,75% 0%,50% 50%,75% 100%,0% 100%);
+	background-color: green;	
+}	
+.sales_point
+{
+	position: absolute;
+	top: 195%;
+	left: 96.39%;
+	rotate:100%;
+	transform: translate(-5%,10%);
+	width: 60px;
+	height: 60px;
+	clip-path: polygon(75% 0%,-10% 0%,50% 50%,-10% 100%,75% 120%);
+	background-color: green;
+}
